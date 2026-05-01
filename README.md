@@ -1,41 +1,19 @@
-# 👋 Salut, moi c’est Mathis
+# 👋 Salut,
+  Je suis Iraak 👨‍💻
 
-💻 Passionné par l’informatique, les réseaux et le homelab
-📡 Radioamateur / systèmes numériques (DMR, C4FM, XLX)
-🐧 Linux user (Debian / Ubuntu)
-🔐 Intéressé par la cybersécurité et les infrastructures
+  ## A propos de moi 
+   - Passionné par l'informatique, réseaux et cybersécurité
+   - J'utilise des distros comme Ubuntu et Debian pour l'instant.
+   - Je m'occupe de systèmes radioamateur (Relais Pi-Star DMR et C4FM + Réflecteur XLX)
+   - Je viens de m'installer un Tiny Lenovo comme Homelab (Docker, Grafana, Wordpress)
 
----
+  ## Compétences et outils 
+   - OS : Debian / Ubuntu / Windows
+   - 🌐 Réseau : SSH, VPN, Tailscale, (WireGuard soon..)
+   - 🐳 Outils : Docker, Git, Wireshark ( Apprentissage des trois en ce moment )
+   - ⚙️ Autres : ~ Python ~ Bash et un peu d'html et css
 
-## 🚀 Ce que je fais
+  ## Projets
+   - Mon Homelab (Hébergements/Apprentissage/Test)
 
-* 🖥️ Gestion d’un homelab perso (serveurs, réseau, services)
-* 📡 Mise en place de relais radio (DMR, C4FM, XLX Reflector)
-* 🔧 Bidouille Linux / Docker / scripts
-* 🌐 Expérimentations réseau (VPN, SSH, monitoring)
-
----
-
-## 🛠️ Tech & Outils
-
-* OS : Debian, Ubuntu
-* Réseau : SSH, WireGuard, Tailscale
-* Outils : Docker, Git, Wireshark
-* Hardware : Tiny Lenovo, serveurs perso
-
----
-
-## 📂 Projets
-
-🔹 XLX Reflector (radio numérique avec déployement scripté)
-🔹 Homelab sécurisé (en ce moment même) 
-🔹 Monitoring réseau perso
-🔹 Scripts automatisation Linux (apprentissage sur du python)
-
----
-
-## 📊 Stats GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Mathys_xx\&show_icons=true\&theme=dark)
-
-
+Je suis très solo mais ce qui ne m'empêche pas d'apprendre par d'autre ❤️ 
